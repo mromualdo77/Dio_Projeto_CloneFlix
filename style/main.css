@@ -52,7 +52,7 @@ header nav a:hover {
 }
 
 .inicio {
-     background-image: url("/img/capa.jpg");
+     background-image: url("/Dio_Projeto_CloneFlix/img/capa.jpg");
      background-repeat: no-repeat;
      background-size: cover;
      background-position: inherit;
